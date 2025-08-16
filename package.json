@@ -1,0 +1,15 @@
+{
+  "name": "token-check-and-grp-uid-app",
+  "version": "1.0.0",
+  "description": "This is an nodejs based app for token check and group uid extraction by sameer siins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sameer Siins",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
