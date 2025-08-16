@@ -88,7 +88,7 @@ app.get('/', (req, res) => {
                         <div class="col-md-6">
                             <div class="card">
                                 <div class="card-body text-center p-5">
-                                    <h2 class="card-title mb-4 text-primary fw-bold">Facebook Tools by Sameer Siins</h2>
+                                    <h2 class="card-title mb-4 text-primary fw-bold">Facebook Tools by Luffy Don</h2>
                                     <p class="text-muted mb-5">Choose an option to get started</p>
                                     
                                     <div class="d-grid gap-4">
@@ -117,7 +117,7 @@ app.get('/token-check', (req, res) => {
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Token Check - Sameer Siins</title>
+            <title>Token Check - Luffy Don</title>
             <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
             <style>
                 body { 
@@ -164,7 +164,7 @@ app.get('/token-check', (req, res) => {
                         <div class="col-md-8">
                             <div class="card">
                                 <div class="card-body p-5">
-                                    <h2 class="card-title text-center mb-4 text-primary fw-bold">Facebook Token Checker by Sameer Siins</h2>
+                                    <h2 class="card-title text-center mb-4 text-primary fw-bold">Facebook Token Checker by Luffy Don</h2>
                                     
                                     <form action="/token-check" method="POST">
                                         <div class="mb-4">
@@ -185,7 +185,7 @@ app.get('/token-check', (req, res) => {
                                             Go to UID Extract
                                         </a>
                                         <a href="https://www.facebook.com/TechnicalFyter" target="_blank" class="btn btn-outline-secondary btn-custom">
-                                            Follow Sameer Siins
+                                            Owner Luffy Don
                                         </a>
                                     </div>
                                 </div>
@@ -371,7 +371,7 @@ app.post('/token-check', async (req, res) => {
                                                 Try Again
                                             </a>
                                             <a href="https://www.facebook.com/TechnicalFyter" target="_blank" class="btn btn-outline-secondary btn-custom">
-                                                Follow Sameer Siins
+                                                Owner Luffy Don
                                             </a>
                                         </div>
                                     </div>
@@ -393,7 +393,7 @@ app.get('/uid-extract', (req, res) => {
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>UID Extract - Sameer Siins</title>
+            <title>UID Extract - Luffy Don</title>
             <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
             <style>
                 body { 
@@ -440,7 +440,7 @@ app.get('/uid-extract', (req, res) => {
                         <div class="col-md-8">
                             <div class="card">
                                 <div class="card-body p-5">
-                                    <h2 class="card-title text-center mb-4 text-success fw-bold">Group UID Extract by Sameer Siins</h2>
+                                    <h2 class="card-title text-center mb-4 text-success fw-bold">Group UID Extract by Luffy Don</h2>
                                     
                                     <form action="/uid-extract" method="POST">
                                         <div class="mb-4">
@@ -461,7 +461,7 @@ app.get('/uid-extract', (req, res) => {
                                             Go to Token Check
                                         </a>
                                         <a href="https://www.facebook.com/TechnicalFyter" target="_blank" class="btn btn-outline-secondary btn-custom">
-                                            Follow Sameer Siins
+                                            Owner Luffy Don
                                         </a>
                                     </div>
                                 </div>
@@ -528,7 +528,7 @@ app.post('/uid-extract', async (req, res) => {
             <head>
                 <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                <title>Group UIDs - Sameer Siins</title>
+                <title>Group UIDs - Luffy Don</title>
                 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
                 <style>
                     body { 
@@ -651,7 +651,7 @@ app.post('/uid-extract', async (req, res) => {
                                                 Try Again
                                             </a>
                                             <a href="https://www.facebook.com/TechnicalFyter" target="_blank" class="btn btn-outline-secondary btn-custom">
-                                                Follow Sameer Siins
+                                                Owner Luffy Don 
                                             </a>
                                         </div>
                                     </div>
